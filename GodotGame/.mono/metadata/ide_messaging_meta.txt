@@ -1,0 +1,2 @@
+﻿56388
+B:\Godot\Godot.exe
